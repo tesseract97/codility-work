@@ -1,5 +1,5 @@
-# codility-work
+# Codility Work
 
 Solving Codility Challenges and Tasks for Skill Building
 
-Binary_Gap => Corrected to Solve all Test Cases
+Binary Gap Problem ---> Corrected to Solve all Test Cases
